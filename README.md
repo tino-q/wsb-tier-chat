@@ -1,7 +1,7 @@
 # wsb-tier-chat
 A tiered chat app based on reddit account age for all wall street bets users.
 
-# Tier Name Ideas (5)
+# Tier Name Ideas (5 tiers in descending order)
 
 1. Market Sages (2+ years?)
 
